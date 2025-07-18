@@ -34,3 +34,4 @@ Evaluate with confusion matrix, precision, recall, F1-score
 
 **OUTPUT**
 
+<img width="804" height="522" alt="Image" src="https://github.com/user-attachments/assets/799e7bda-f01e-4365-9cb0-7c12995fa294" />
